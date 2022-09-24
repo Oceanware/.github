@@ -2,7 +2,7 @@
     "name": "Oceanware Organization Django Ci",
     "description": "Oceanware Organization django psql CI starter workflow.",
     "categories": [
-        "python"
+        "testing"
     ],
     "filePatterns": [
         "package.json$",
