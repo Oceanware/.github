@@ -1,5 +1,5 @@
 {
-    "name": "Octo Organization Workflow",
+    "name": "Oceanware Organization Django Ci",
     "description": "Oceanware Organization django psql CI starter workflow.",
     "categories": [
         "python, django"
